@@ -41,3 +41,5 @@ Carrier not being listed on the table does not mean that this patch won't work f
 | Oceania       | New Zealand (530)       | Spark NZ (05)       | O                   | O                                       | [Reference](https://github.com/kyujin-cho/pixel-volte-patch/discussions/1#discussioncomment-4940003)                                                                                             |
 | Oceania       | New Zealand (530)       | 2degrees NZ (24)    | O                   | X                                       | VoWiFi doesn't seem to work regardless of whether 'ims' APN is present or not. Post June 2023 Security Patch, VoLTE and 5G (NR) seem to be natively enabled now. [Reference](https://github.com/kyujin-cho/pixel-volte-patch/discussions/1#discussioncomment-5644517)              |
 | Europe       | Hungary (216)       | Vodafone (70)    | Yes                   | ?                                       | VoLTE works              |
+| Europe       | Serbia (220)       | A1 Srbija (05)    | Yes                   | ?                                       | VoLTE not working, unsupported by A1 Srbija, Google Pixel 6 Pro            |    
+
